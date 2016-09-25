@@ -1,0 +1,10 @@
+---
+layout: default
+img: DanforthLogo.jpg
+category: Services
+title: Phenotyping Technician
+description: |
+---
+  Currently employed as a Phenotyping Technician at the Donald Danforth Plant Science Center. Working with a 
+  LemnaTec Scanalyzer 3D platform integrated with a Conviron Growth House this high-throughput platform can
+  hold 1140 plants and able to produce daily images from the side and top view of plants in a non-destructive manner.

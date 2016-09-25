@@ -1,0 +1,13 @@
+---
+layout: default
+img: volunteer_pic.jpg
+category: Services
+title: Volunteer Services
+description: |
+---
+<p>Active volunteer at the <a href="http://fairmontcitylibrary.org/" target="_blank">Fairmont City Library</a> for over 5 years. 
+Helped develop programs for teens and introducing my home town community to the benefits of  
+library services. Specializing in working with kids and developing programs that includes 
+focused activities on conserving resources and helped establish a community garden using 
+recycled materials.</p>
+
