@@ -6,7 +6,7 @@ title: Hobbies and Interest
 description: |
 ---
   Science and technology are my top interest. I enjoy spending time tending to 
-  my garden and teaching myself programming. I focused alot of my time taking 
+  my garden and teaching myself computer programming. Currently focusing alot of my time taking online 
   courses in computer science learning to code. Recently I redesigned the
   <a href="http://maker.danforthcenter.org/" target="_blank"> Donald Danforth Plant Science Center Maker Group</a> web page and 
   regularly enjoy trying maker projects to practice working with electronics and coding in new languages.
